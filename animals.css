@@ -1,0 +1,21 @@
+
+#title{
+margin-top: 20%;
+margin-left: 4%;
+font-style: italic;
+
+}
+.sea-creatures{
+display: flex;  
+}
+#floor{
+ /* margin-left: 5%; */
+ width: 66%;
+ height: 960px;   
+}
+body{
+ background-color: rgb(235, 241, 243); 
+}
+#Backimage{
+background-image: -moz-repeating-linear-gradient();    
+}

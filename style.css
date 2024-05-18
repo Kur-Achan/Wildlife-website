@@ -1,0 +1,126 @@
+.topnav{
+    display: flex;
+    margin-left: 5%;
+    
+}
+#Ad{
+ background-color: orange; 
+ margin-left: 40%;  
+}
+#don{
+background-color:sandybrown;    
+}
+#mem{
+background-color:orangered ;
+}
+#n{
+color: yellow;
+}
+#a{
+color: green;
+}
+#t{
+color: aquamarine;
+}
+#u{
+color: blue;
+}
+#r{
+ color: green;   
+}
+#e{
+ color: yellow;   
+}
+#heading{
+    color: antiquewhite;
+    margin-left: 5%;
+}
+#luv{
+    color: antiquewhite;
+    margin-left: 5%;
+    font-size: xx-large;
+}
+#btn{
+    background-color: green;
+    margin-left: 5%;
+    padding: 1%; 
+    font-size: xx-large;
+}
+#sentence{
+    color: antiquewhite;
+    margin-left: 5%;
+}
+#learn{
+    color: green;
+    margin-left: 5%;
+    font-size: xx-large;
+}
+.nat{
+    display: flex;
+    margin-left: 3%;
+    font-size: xx-large;
+}
+/* #fly{
+    margin-left: 5%;
+    width: 1000px; 
+  
+} */
+.context{
+    position: relative;
+    display: flex;
+    gap: 5%;
+    height: 400px;
+}
+#container{
+    text-align: center;
+    background-color: orange;
+    padding: 50px;
+}
+.container2{
+background-color: black; 
+}
+.footer{
+    display:flex;
+}
+.context img{
+    position: absolute;
+    width:1000px ;
+    margin-top: -380px;
+    height: 780px;
+}
+.dropbtn {
+    background-color:burlywood;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #ddd;}
+  
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  .dropdown:hover .dropbtn {background-color:orangered;
+}
+  
